@@ -1,5 +1,3 @@
-Certainly! Here's an updated version of your GitHub repository README with more emojis within the Markdown:
-
 ```markdown
 # DeepCaptcha Solver
 
@@ -70,6 +68,4 @@ Contributions are welcome! Feel free to open issues or pull requests.
 ## Author 👨‍💻
 
 Armanx200 - [GitHub Profile](https://github.com/Armanx200)
-```
 
-Hope you find this version even more lively and engaging!
