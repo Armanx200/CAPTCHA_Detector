@@ -14,12 +14,13 @@ A deep learning model for solving CAPTCHA images using convolutional neural netw
 ## Project Structure 📂
 
 ```
-project_dir/
-├── Samples/
-├── code_finder.py
-├── full_model.h5
-├── model.py
+project_dir\
+├── Samples\
+├── code_finder.py\
+├── full_model.h5\
+├── model.py\
 └── model_weights.weights.h5
+
 ```
 
 ## Installation ⚙️
